@@ -28,7 +28,7 @@
 ## Enterprise Platforms / Libraries / Frameworks / Tools
 
 </td></tr>
-<tr><td>
+<tr><td width="50%">
 
 ### Back-End
 <div align="center">  
@@ -46,7 +46,7 @@
 </div>
 
 </td>
-<td>
+<td width="50%">
 
 ### Front-End
 <div align="center">  
