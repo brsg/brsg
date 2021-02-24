@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td colspan="2">
-      ## Elixir Ecosystem
+## Elixir Ecosystem
       <div align="center">
         <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/elixir.png" alt="Elixir" height="50" />  
         <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/phoenix.png" alt="Phoenix" height="50" />  
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td colspan="2">
-      ## Java Ecosystem
+## Java Ecosystem
       <div align="center">
         <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/java.png" alt="Java" height="50" />  
         <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/spring.png" alt="Spring" height="50" />  
@@ -26,12 +26,12 @@
   </tr>
   <tr>
     <td colspan="2">
-    ## Enterprise Platforms / Libraries / Frameworks / Tools
+## Enterprise Platforms / Libraries / Frameworks / Tools
     </td>
   </tr>
   <tr>
     <td>
-      ### Back-End
+### Back-End
       <div align="center">  
         <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/spark.png" alt="Apache Spark" height="50" />  
         <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/docker.png" alt="Docker" height="50" />  
@@ -47,7 +47,7 @@
       </div>
     </td>
     <td>
-      ### Front-End
+### Front-End
       <div align="center">  
         <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/css.png" alt="CSS3" height="50" />  
         <img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/html5.png" alt="HTML5" height="50" />  
