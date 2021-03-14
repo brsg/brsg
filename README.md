@@ -32,6 +32,9 @@ If you need help with your Elixir projects, contact <info@brsg.io> or visit <htt
 <td align="center">
 <a href="https://elixir-lang.org/" title="Elixir Language" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/elixir.png" alt="Elixir" height="50" /></a>
 <a href="https://www.phoenixframework.org/" title="Phoenix Framework" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/phoenix.png" alt="Phoenix" height="50" /></a>
+<a href="https://github.com/elixir-ecto" title="Ecto" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/ecto.png" alt="Ecto" height="50" /></a>
+<a href="https://graphql.org/" title="GraphQL" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/graphql.png" alt="GraphQL" height="50" /></a>
+<a href="http://absinthe-graphql.org/" title="Absinthe" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/absinthe.png" alt="Absinthe" height="50" /></a>
 <a href="https://riak.com/" title="Riak" target="_blank"><img style="margin: 10px" src="https://github.com/brsg/brsg/blob/master/assets/images/riak.png" alt="Riak" height="50" /></a>
 </td>
 
