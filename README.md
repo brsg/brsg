@@ -6,7 +6,7 @@ We hope you find something useful here. If you do, we'd love to know about it.
 
 ## Consulting or Partnership
 
-If you need help with your Elixir projects, contact <info@brsg.io> or visit <https://brsg.io>.
+If you need help with your Elixir or Java projects, contact <info@brsg.io> or visit <https://brsg.io>.
 
 ## Our Tools and Tech
 <table width="100%">
